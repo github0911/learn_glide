@@ -3,6 +3,7 @@ glide 框架学习使用
 
 ## one day 2019年4月17日
 ### 如何使用glide
+[参考示例](https://blog.csdn.net/guolin_blog/article/details/53759439)
 - 引入gradle配置
 ```
 repositories {
