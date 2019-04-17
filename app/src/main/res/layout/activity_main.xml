@@ -19,8 +19,13 @@
     <ImageView
         android:id="@+id/iv_show"
         app:layout_constraintTop_toBottomOf="@id/tv_load"
-        android:layout_width="match_parent"
+        android:layout_width="300dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="30dp"
+        android:scaleType="centerCrop"
         tools:src="#00ffff"
-        android:layout_height="wrap_content" />
+        android:layout_height="200dp" />
 
 </android.support.constraint.ConstraintLayout>
