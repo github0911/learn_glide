@@ -16,3 +16,7 @@ dependencies {
   annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
 }
 ```
+### 参考链接
+* [RxJava 官方](https://github.com/ReactiveX/RxJava)
+* [RxJava 学习](https://www.jianshu.com/p/0cd258eecf60)
+* [示例代码](https://github.com/nanchen2251/RxJava2Examples)
